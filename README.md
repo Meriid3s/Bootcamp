@@ -5,6 +5,3 @@
 -Github
 
 ## Samples
-
--Cats
--Dogs
