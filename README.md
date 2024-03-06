@@ -1,5 +1,9 @@
-* Bootcamp online: week 1
+-   Bootcamp online: week 1
 
 -Entorno
 -Git
 -Github
+
+## Samples
+
+-Dogs
